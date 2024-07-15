@@ -3,8 +3,8 @@ layout: home
 layoutClass: 'm-home-layout'
 
 hero:
-  name: 茂茂的
-  text: 前端导航模板
+  name: 李大锤的
+  text: 个人Blog
   tagline: 基于 VitePress 的个人前端导航页面模板
   image:
     src: /logo.png
