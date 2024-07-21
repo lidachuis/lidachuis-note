@@ -14,7 +14,8 @@ export const nav: DefaultTheme.Config['nav'] = [
   },
   {text: '测试',
   items: [
-    {text: '测试seqkit', link: '/tools/seqkit'}
-  ]
+    {text: 'seqkit', link: '/tools/seqkit'}
+  ],
+  activeMatch: '^/tools'
   }
 ]
