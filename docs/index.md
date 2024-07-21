@@ -7,7 +7,7 @@ hero:
   text: 碎片化记录“摸鱼”过程
   tagline: 读书没有用，不如趁早打工🐶
   image:
-    src: /logo.png  ##TODO
+    src: /logo.png  ##TODO:change logo
     alt: 锤下故事
   actions:
     - text: 茂茂物语
@@ -27,28 +27,28 @@ features:
     link: https://notes.fe-mm.com//javascript/types
     linkText: 前端常用知识
   - icon: 🧰
-    title: 生信工具
-    details: 了解各种库的实现原理<br />学习其中的小技巧和冷知识
+    title: 生物信息软件
+    details: 整理一些生物信息软件，了解安装or使用方法<small>（常用工具/简单技巧等）</small><br />软件使用过程中有遇到的err情况，也会记录下来。
     link: https://notes.fe-mm.com/analysis/utils/only-allow
     linkText: 源码阅读
   - icon: 🧬
     title: 生物回顾
-    details: 在工作中学到的一切<small>（常用库/工具/奇淫技巧等）</small><br />配合 CV 大法来更好的摸鱼
+    details: 生物信息学常常伴随这生物知识，记录生物学内容<small>（名词解释、概念等）</small><br />主要用来弥补自己生物学上面的欠缺。
     link: https://notes.fe-mm.com/workflow/utils/library
     linkText: 常用工具库
   - icon: 📘
     title: 学习笔记
-    details: 工欲善其事，必先利其器<br />记录开发和日常使用中所用到的软件、插件、扩展等
+    details: 工欲善其事，必先利其器<br />记录学习过程，方便后期回顾。
     link: https://notes.fe-mm.com/efficiency/online-tools
     linkText: 提效工具
   - icon: 🐞
     title: 杂七杂八
-    details: 那些年我们踩过的坑<br />总有一些让你意想不到的问题
+    details: 纯纯的个人杂货铺<br />简简单单的一些随记。
     link: https://notes.fe-mm.com/pit/npm
     linkText: 踩坑记录
   - icon: 💯
-    title: 吾志所向，一往无前。
-    details: '<small class="bottom-small">一个想躺平的小开发</small>'
+    title: 先要做，再做好。
+    details: '<small class="bottom-small">我最大的梦想就是躺着不动</small>'
     link: https://notes.fe-mm.com/mao
 ---
 
