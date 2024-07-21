@@ -14,7 +14,12 @@ export const nav: DefaultTheme.Config['nav'] = [
   },
   {text: '测试',
   items: [
-    {text: 'seqkit', link: '/tools/A1/seqkit'}
+    {
+      text: '软件推荐与配置',
+      items:[
+        {text: 'seqkit', link: '/tools/A1/seqkit'}
+      ]
+    }
   ],
   activeMatch: '^/tools'
   }
