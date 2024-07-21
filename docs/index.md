@@ -25,27 +25,27 @@ features:
     title: 编程语言
     details: 学习一些常用的编程语言<small>（Shell、R、Python...）</small><br />如有异议按你的理解为主，不接受反驳
     link: https://notes.fe-mm.com//javascript/types
-    linkText: 前端常用知识
+    linkText: 编程语言
   - icon: 🧰
     title: 生物信息软件
     details: 整理一些生物信息软件，了解安装or使用方法<small>（常用工具/简单技巧等）</small><br />软件使用过程中有遇到的err情况，也会记录下来。
     link: https://notes.fe-mm.com/analysis/utils/only-allow
-    linkText: 源码阅读
+    linkText: 生物信息软件
   - icon: 🧬
     title: 生物回顾
     details: 生物信息学常常伴随这生物知识，记录生物学内容<small>（名词解释、概念等）</small><br />主要用来弥补自己生物学上面的欠缺。
     link: https://notes.fe-mm.com/workflow/utils/library
-    linkText: 常用工具库
+    linkText: 生物回顾
   - icon: 📘
     title: 学习笔记
     details: 工欲善其事，必先利其器<br />记录学习过程，方便后期回顾。
     link: https://notes.fe-mm.com/efficiency/online-tools
-    linkText: 提效工具
+    linkText: 学习笔记
   - icon: 🐞
     title: 杂七杂八
     details: 纯纯的个人杂货铺<br />简简单单的一些随记。
     link: https://notes.fe-mm.com/pit/npm
-    linkText: 踩坑记录
+    linkText: 杂七杂八
   - icon: 💯
     title: 先要做，再做好。
     details: '<small class="bottom-small">我最大的梦想就是躺着不动</small>'
