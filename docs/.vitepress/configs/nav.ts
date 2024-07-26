@@ -17,7 +17,9 @@ export const nav: DefaultTheme.Config['nav'] = [
     {
       text: '软件推荐与配置',
       items:[
-        {text: 'seqkit', link: '/tools/A1/seqkit'}
+        {text: 'seqkit', link: '/tools/A1/seqkit'},
+        { text: '生信工具1', link: '/tools/A1/Nolebase' },
+        { text: '生信工具2', link: '/tools/A1/Nolebase集成' }
       ]
     }
   ],

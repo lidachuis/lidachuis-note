@@ -7,7 +7,7 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
             items: [
                 { text: '生信工具', link: '/tools/A1/seqkit' },
                 { text: '生信工具1', link: '/tools/A1/Nolebase' },
-                { text: '生信工具2', link: '/tools/A1/Nolebase集成' },
+                { text: '生信工具2', link: '/tools/A1/Nolebase集成' }
             ]
         }
     ]
