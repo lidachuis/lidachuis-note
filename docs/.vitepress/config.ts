@@ -21,6 +21,7 @@ export default defineConfig({
   /* markdown 配置 */
   markdown: {
     lineNumbers: true,
+    include: true,
   },
 
   /* 主题配置 */
