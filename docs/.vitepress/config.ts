@@ -2,7 +2,7 @@ import { basename } from 'node:path'
 import { defineConfig } from 'vitepress'
 import MarkdownPreview from 'vite-plugin-markdown-preview'
 
-import { head, nav, sidebar } from './configs'
+import { head, nav, sidebar, algolia } from './configs'
 
 const APP_BASE_PATH = basename(process.env.GITHUB_REPOSITORY || '')
 
@@ -27,9 +27,9 @@ export default defineConfig({
   /* 主题配置 */
   themeConfig: {
     i18nRouting: false,
-    search:{
-      provider: 'local'
-    },
+    // search:{
+    //   provider: 'local'
+    // },
 
     logo: '/logo.png',
 
@@ -56,6 +56,8 @@ export default defineConfig({
         timeStyle: 'medium',
       },
     },
+    /* Algolia DocSearch 配置 */
+    algolia,
 
     docFooter: {
       prev: '上一篇',
