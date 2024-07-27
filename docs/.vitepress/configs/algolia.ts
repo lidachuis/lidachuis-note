@@ -2,7 +2,6 @@ import type { DefaultTheme } from 'vitepress'
 
 export const algolia: DefaultTheme.AlgoliaSearchOptions = {
   appId: 'RWOEZ6KRF1',
-  //apiKey: '4c67197afadb283c77e084bd50618c60',
   apiKey: '1edf45e037d6f4f6f6540333d5ad183f',
   indexName: 'lidachuis',
   placeholder: '搜索',
